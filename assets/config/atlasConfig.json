@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-zdvwe",
+    "appUrl": "https://services.cloud.mongodb.com/groups/62c47df36bd551595d5a5a75/apps/65e948f24d9549b1a1c2bbda",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/62c47df36bd551595d5a5a75/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
